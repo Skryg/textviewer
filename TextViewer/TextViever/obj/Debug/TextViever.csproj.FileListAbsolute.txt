@@ -1,0 +1,14 @@
+C:\Users\oskar\source\repos\TextViever\TextViever\bin\Debug\TextViever.exe.config
+C:\Users\oskar\source\repos\TextViever\TextViever\bin\Debug\TextViever.exe
+C:\Users\oskar\source\repos\TextViever\TextViever\bin\Debug\TextViever.pdb
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.csprojAssemblyReference.cache
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.Properties.Resources.resources
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.csproj.GenerateResource.cache
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.csproj.CoreCompileInputs.cache
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.exe
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.pdb
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.TextViewer.resources
+C:\Users\oskar\source\repos\TextViever\TextViever\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oskar\source\repos\TextViever\TextViever\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.csproj.CopyComplete
+C:\Users\oskar\source\repos\TextViever\TextViever\obj\Debug\TextViever.Prompter.resources
